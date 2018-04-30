@@ -1,0 +1,28 @@
+body{
+  background-color: black;
+  text-align: center;
+}
+.header{
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+.links{
+  color: Aquamarine;
+  font-size: 16px;
+}
+.slogan{
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+}
+.content-text{
+  font-family: Verdana;
+  font-size: 21px;
+  color: gray;
+}
+.footer{
+  text-align: right;
+}
